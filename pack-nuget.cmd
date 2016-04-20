@@ -1,2 +1,2 @@
 .nuget\nuget.exe update -self
-.nuget\nuget.exe pack src\MoviePosterDb\MoviePosterDb.csproj -Build -Symbols -Properties Configuration=Release
+.nuget\nuget.exe pack src\Cinematerial\Cinematerial.csproj -Build -Symbols -Properties Configuration=Release
