@@ -2,7 +2,7 @@ version: 1.0.{build}
 configuration: Release
 environment:
   COVERALLS_REPO_TOKEN:
-    secure: Pka62kxAuS32oSLmoQ5jbGyiL2tWYX9vTrVt/62ohD+2XVR4/mOEACWy/rul6nTm
+    secure: qO6/hmJ/Zj0dw5U4W8j+6IBaVwovwLTUb0v6Nf/Q/T4KepD6qJDS/5LXlQNI+anG
   CINEMATERIAL_API_KEY:
     secure: Inw9vA48VDua1b5r5j7Gbw==
   CINEMATERIAL_API_SECRET:
